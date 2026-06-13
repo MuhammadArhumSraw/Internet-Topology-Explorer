@@ -1,0 +1,16 @@
+1)	[93mshanghai-232-gw.net.shanghai.nyu.edu[0m ([93m10.209.64.1[0m)	[92m126.29 ms[0m	[ICMP] ICMP type=11, code=0
+2)	[93m10.213.33.33[0m ([93m10.213.33.33[0m)	[92m78.69 ms[0m	[ICMP] ICMP type=11, code=0
+3)	[93m10.213.32.41[0m ([93m10.213.32.41[0m)	[92m65.26 ms[0m	[ICMP] ICMP type=11, code=0
+4)	[93m10.213.32.22[0m ([93m10.213.32.22[0m)	[92m74.85 ms[0m	[ICMP] ICMP type=11, code=0
+5)	[93m203-85-128-94.static.hk.net[0m ([93m203.85.128.94[0m)	[92m96.60 ms[0m	[ICMP] ICMP type=11, code=0
+6)	[93mip202-76-18-72.ip.hk.net[0m ([93m202.76.18.72[0m)	[92m118.42 ms[0m	[ICMP] ICMP type=11, code=0
+7)	[93mip202-76-18-60.ip.hk.net[0m ([93m202.76.18.60[0m)	[92m95.44 ms[0m	[ICMP] ICMP type=11, code=0
+8)	[93mgoogle1-lacp-100g.hkix.net[0m ([93m123.255.90.205[0m)	[92m122.18 ms[0m	[ICMP] ICMP type=11, code=0
+9)	[93m192.178.111.177[0m ([93m192.178.111.177[0m)	[92m91.10 ms[0m	[ICMP] ICMP type=11, code=0
+10)	[93m172.253.69.246[0m ([93m172.253.69.246[0m)	[92m88.51 ms[0m	[ICMP] ICMP type=11, code=0
+11)	[93m209.85.142.26[0m ([93m209.85.142.26[0m)	[92m96.85 ms[0m	[ICMP] ICMP type=11, code=0
+12)	[93m142.251.242.247[0m ([93m142.251.242.247[0m)	[92m101.10 ms[0m	[ICMP] ICMP type=11, code=0
+13)	[93m142.250.225.161[0m ([93m142.250.225.161[0m)	[92m115.03 ms[0m	[ICMP] ICMP type=11, code=0
+14)	[93m192.178.106.59[0m ([93m192.178.106.59[0m)	[92m108.90 ms[0m	[ICMP] ICMP type=11, code=0
+15)	[93m142.251.77.85[0m ([93m142.251.77.85[0m)	[92m107.76 ms[0m	[ICMP] ICMP type=11, code=0
+16)	[93mnctsaa-ac-in-f14.1e100.net[0m ([93m142.250.196.206[0m)	[92m111.71 ms[0m	[ICMP] ICMP type=0, code=0

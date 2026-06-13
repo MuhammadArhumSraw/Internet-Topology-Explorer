@@ -1,0 +1,38 @@
+INTERNET TOPOLOGY EXPLORER – INSTALLATION & USAGE
+
+1. Requirements:
+
+   - Python 3.x
+
+   - pip
+
+   - Root access (for raw sockets)
+
+   - Dependencies: scapy, matplotlib, networkx
+
+2. Installation:
+
+   sudo pip install scapy matplotlib networkx
+
+3. Running the Project:
+
+   Use the Makefile:
+
+       make trace $(SCRIPT) -t $(TARGET) -p $(PROTO) -n $(HOPS)
+
+
+   Or run directly:
+
+        # Makefile for Custom Traceroute Tool
+
+SCRIPT = ComputerNetworkingProject.py
+
+trace:
+
+       sudo python3 $(SCRIPT) -t $(TARGET) -p $(PROTO) -n $(HOPS)
+
+4. Output:
+
+   - Raw results saved to trace_output.txt and being shown on the terminal where the file is run from
+
+   - Visual graph will pop up (requires GUI)
